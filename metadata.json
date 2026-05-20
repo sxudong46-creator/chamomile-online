@@ -1,0 +1,6 @@
+{
+  "name": "Chamomile Rain Field",
+  "description": "An interactive chamomile flower field that sways in localized rain and generates ripple effects following the cursor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
